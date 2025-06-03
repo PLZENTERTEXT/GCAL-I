@@ -1,7 +1,6 @@
 # <p align="center">GCAL - I: Google Calendar Insights</p>
+<p align="center">Summarize the time spent on each color-coded task in your Google Calendar.</p>
 ![](output_sample.gif)
-
-Summarize the time spent on each color-coded task in your Google Calendar.
 
 It will prompt you to:
 - Map each color to a specific task
